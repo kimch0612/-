@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "컴퓨터 사용시간 지킴이_대회본", "컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본.csproj", "{2074B7D4-1195-4011-9635-8618175BE981}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "컴퓨터 사용시간 지킴이", "컴퓨터 사용시간 지킴이\컴퓨터 사용시간 지킴이.vdproj", "{4B0B4277-5C08-4215-8705-69E7C9C44394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2074B7D4-1195-4011-9635-8618175BE981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2074B7D4-1195-4011-9635-8618175BE981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2074B7D4-1195-4011-9635-8618175BE981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2074B7D4-1195-4011-9635-8618175BE981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0B4277-5C08-4215-8705-69E7C9C44394}.Debug|Any CPU.ActiveCfg = Debug
+		{4B0B4277-5C08-4215-8705-69E7C9C44394}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

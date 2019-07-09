@@ -1,0 +1,27 @@
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\bin\Debug\컴퓨터 사용시간 지킴이_대회본.exe.config
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\bin\Debug\컴퓨터 사용시간 지킴이_대회본.exe
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\bin\Debug\컴퓨터 사용시간 지킴이_대회본.pdb
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.날짜.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.도움말.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.시간설정.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.Form1.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.Properties.Resources.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터 사용시간 지킴이_대회본.csproj.GenerateResource.Cache
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터 사용시간 지킴이_대회본.exe
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터 사용시간 지킴이_대회본.pdb
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.투명도.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.백그라운드.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.사용방법.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.프로그램제거.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터 사용시간 지킴이_대회본.csprojResolveAssemblyReference.cache
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.사용제한.resources
+C:\Users\Changhwan Kim\documents\visual studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.write.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.remove.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.저작권.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.process.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터 사용시간 지킴이_대회본.csproj.CoreCompileInputs.cache
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본._30s.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본.test.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본._2h.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본._3h.resources
+C:\Users\Changhwan Kim\Documents\Visual Studio 2017\Projects\컴퓨터 사용시간 지킴이_대회본\컴퓨터 사용시간 지킴이_대회본\obj\Debug\컴퓨터_사용시간_지킴이_대회본._60m.resources

@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2074B7D4-1195-4011-9635-8618175BE981}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>컴퓨터_사용시간_지킴이_대회본</RootNamespace>
+    <AssemblyName>컴퓨터 사용시간 지킴이_대회본</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="2h.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2h.Designer.cs">
+      <DependentUpon>2h.cs</DependentUpon>
+    </Compile>
+    <Compile Include="30s.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="30s.Designer.cs">
+      <DependentUpon>30s.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3h.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3h.Designer.cs">
+      <DependentUpon>3h.cs</DependentUpon>
+    </Compile>
+    <Compile Include="m60.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="m60.Designer.cs">
+      <DependentUpon>m60.cs</DependentUpon>
+    </Compile>
+    <Compile Include="process.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="process.Designer.cs">
+      <DependentUpon>process.cs</DependentUpon>
+    </Compile>
+    <Compile Include="remove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="remove.Designer.cs">
+      <DependentUpon>remove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="write.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="write.Designer.cs">
+      <DependentUpon>write.cs</DependentUpon>
+    </Compile>
+    <Compile Include="날짜.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="날짜.Designer.cs">
+      <DependentUpon>날짜.cs</DependentUpon>
+    </Compile>
+    <Compile Include="도움말.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="도움말.Designer.cs">
+      <DependentUpon>도움말.cs</DependentUpon>
+    </Compile>
+    <Compile Include="백그라운드.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="백그라운드.Designer.cs">
+      <DependentUpon>백그라운드.cs</DependentUpon>
+    </Compile>
+    <Compile Include="사용방법.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="사용방법.Designer.cs">
+      <DependentUpon>사용방법.cs</DependentUpon>
+    </Compile>
+    <Compile Include="사용제한.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="사용제한.Designer.cs">
+      <DependentUpon>사용제한.cs</DependentUpon>
+    </Compile>
+    <Compile Include="시간설정.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="시간설정.Designer.cs">
+      <DependentUpon>시간설정.cs</DependentUpon>
+    </Compile>
+    <Compile Include="메인.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="메인.Designer.cs">
+      <DependentUpon>메인.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="저작권.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="저작권.Designer.cs">
+      <DependentUpon>저작권.cs</DependentUpon>
+    </Compile>
+    <Compile Include="투명도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="투명도.Designer.cs">
+      <DependentUpon>투명도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="프로그램제거.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="프로그램제거.Designer.cs">
+      <DependentUpon>프로그램제거.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="2h.resx">
+      <DependentUpon>2h.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="30s.resx">
+      <DependentUpon>30s.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3h.resx">
+      <DependentUpon>3h.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="m60.resx">
+      <DependentUpon>m60.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="process.resx">
+      <DependentUpon>process.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="remove.resx">
+      <DependentUpon>remove.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="write.resx">
+      <DependentUpon>write.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="날짜.resx">
+      <DependentUpon>날짜.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="도움말.resx">
+      <DependentUpon>도움말.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="백그라운드.resx">
+      <DependentUpon>백그라운드.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="사용방법.resx">
+      <DependentUpon>사용방법.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="사용제한.resx">
+      <DependentUpon>사용제한.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="시간설정.resx">
+      <DependentUpon>시간설정.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="메인.resx">
+      <DependentUpon>메인.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="저작권.resx">
+      <DependentUpon>저작권.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="투명도.resx">
+      <DependentUpon>투명도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="프로그램제거.resx">
+      <DependentUpon>프로그램제거.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_81-Power_2123910.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_25_-_Shield_2102061.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_common-logout-signout-exit-outline-stroke_763290.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
